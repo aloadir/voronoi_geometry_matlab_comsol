@@ -1,6 +1,8 @@
+# voronoi_geometry_matlab_comsol
+
 This is a MATLAB script that uses the interface LiveLink for MATLAB.
 
-# What is this for?
+## What is this for?
 
 This script uses the work of Park* to generate a Voronoi diagram and export it to Comsol Multiphysics as a 2D geometry through LiveLink for MATLAB. This is part of my PhD research project.
 
