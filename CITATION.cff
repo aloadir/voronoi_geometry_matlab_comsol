@@ -1,0 +1,10 @@
+cff-version: 1.0.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Santos de Oliveira
+    given-names: Aloadir Lucas
+    orcid: https://orcid.org/0000-0002-8006-4789
+title: "voronoi_geometry_matlab_comsol"
+version: 1.0.0.0
+doi: 10.5281/zenodo.6413143
+date-released: 2022-04-04
